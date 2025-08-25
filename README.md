@@ -16,10 +16,9 @@
 - Friend system: send, accept, and reject friend requests  
 - Real-time messaging with typing indicators and reactions  
 - One-on-one and group video calls with screen sharing and recording  
-- 32 unique UI themes for personalized language exchange experience  
+- 32 unique UI themes for personalized experience  
 - Protected routes and session management using JWT  
-- Responsive, error-resilient UI with global state handling  
-- Ready for free and scalable deployment
+- Responsive, error-resilient UI with global state handling
 
 ---
 
